@@ -72,6 +72,5 @@ Promover a inclusão digital e social de neurodivergentes, ampliando suas oportu
 ---
 
 **Licença**: Este projeto é livre para uso e modificação.
-```
 
 
